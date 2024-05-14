@@ -1,5 +1,5 @@
-# 🏞️ 한강공원 주변시설 시각화 프로젝트
-![한강_시각화_표지](https://github.com/pladata-encore/DA34-1st-3GaemSeoung-Hangang_gang/assets/115495189/f7c2525d-b3fc-4700-8561-c2e81f2175fc)
+# 🏞️ 한강공원 리뷰분석 및 주변시설 시각화 프로젝트
+![image](https://github.com/ddsntc1/Hangang_SA/assets/38596856/32603fd2-b616-434c-902e-135ef0572d75)
 
 <br/>
 
